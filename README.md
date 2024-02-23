@@ -25,6 +25,7 @@ public class Day4 {
 sample input: 3
 
 output: 
+
 3x1=3
 3x2=6
 3x3=9
